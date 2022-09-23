@@ -26,13 +26,13 @@ Below is the list of all UI configuration that is possible as part of customizat
 
 Configuration | Description
 ------------- | -------------
-![SDK](docs/1.png "BobbleIME SDK") | IME is opened on a input view that does not supports word suggestion
-![SDK](docs/2.png "BobbleIME SDK") | IME is opened on a input view that supports word suggestion
-![SDK](docs/3.png "BobbleIME SDK") | IME is opened on a input view that does not supports word suggestion and custom top bar is made visible
-![SDK](docs/4.png "BobbleIME SDK") | IME is opened on a input view that supports word suggestion and custom top bar is made visible
-![SDK](docs/5.png "BobbleIME SDK") | IME is opened on a input view and both top bar and custom view is visible
-![SDK](docs/6.png "BobbleIME SDK") | IME is opened on a custom input view which does not supports word suggestion and both top bar and custom view is visible
-![SDK](docs/7.png "BobbleIME SDK") | IME is opened on a custom input view which supports word suggestion and both top bar and custom view is visible
+![SDK](1.png "BobbleIME SDK") | IME is opened on a input view that does not supports word suggestion
+![SDK](2.png "BobbleIME SDK") | IME is opened on a input view that supports word suggestion
+![SDK](3.png "BobbleIME SDK") | IME is opened on a input view that does not supports word suggestion and custom top bar is made visible
+![SDK](4.png "BobbleIME SDK") | IME is opened on a input view that supports word suggestion and custom top bar is made visible
+![SDK](5.png "BobbleIME SDK") | IME is opened on a input view and both top bar and custom view is visible
+![SDK](6.png "BobbleIME SDK") | IME is opened on a custom input view which does not supports word suggestion and both top bar and custom view is visible
+![SDK](7.png "BobbleIME SDK") | IME is opened on a custom input view which supports word suggestion and both top bar and custom view is visible
 
 
 You also need to register your custom IME class in manifest as InputMethod service.
