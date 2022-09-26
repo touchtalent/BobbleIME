@@ -1,15 +1,9 @@
 # BobbleIME SDK
 
 ## Overview
-BobbleIME sdk provides complete solution to Input Method Editor implementation. BobbleIME provides
-following core IME features :
-
-1. Word Suggestion
-2. Word Prediction
-3. Gesture typing
-4. Auto correct
-5. Customizable language dictionary
-6. Emoji support
+BobbleIME sdk provides complete solution to Input Method Editor implementation. 
+The core SDK contains all functionalities related to typing: word suggestion/prediction, auto-correct, different language model and gesture typing etc. 
+The core SDK also has (optional) functionality of having different content formats : BigMoji, POPText, Stickers, GIFs etc. integrated within the keyboard.
 
 This SDK exposes API endpoints to allow certain level of customization of IME.
 
